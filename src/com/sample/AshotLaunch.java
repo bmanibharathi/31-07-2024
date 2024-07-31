@@ -22,6 +22,9 @@ public class AshotLaunch {
 		File target= new File("D:\\selenium\\AshotAmazon.jpeg");
 		boolean write = ImageIO.write(ref.getImage(),"jpeg", target);
 		System.out.println(write);
+		System.out.println("print");
+		System.out.println("hello");
+		
 		
 		
 		
